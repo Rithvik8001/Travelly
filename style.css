@@ -127,4 +127,9 @@ nav ul {
   .hero {
     text-align: center;
   }
+
+  .locations-head h3 {
+    background: rgba(19, 28, 39, 0.8);
+    -webkit-text-fill-color: white;
+  }
 }
