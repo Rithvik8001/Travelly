@@ -45,6 +45,11 @@ button {
   padding: 1rem 3rem;
 }
 
+button:hover {
+  background: #fff176;
+  border-radius: 2rem;
+}
+
 .main-header {
   background-color: #131c27;
   color: white;
